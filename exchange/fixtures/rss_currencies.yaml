@@ -1,0 +1,146 @@
+interactions:
+- request:
+    body: null
+    headers:
+      A-Im: [feed]
+      Accept: ['application/atom+xml,application/rdf+xml,application/rss+xml,application/x-netcdf,application/xml;q=0.9,text/xml;q=0.2,*/*;q=0.1']
+      Accept-Encoding: ['gzip, deflate']
+      Connection: [close]
+      Host: [www.ecb.europa.eu]
+      User-Agent: ['UniversalFeedParser/5.2.1 +https://code.google.com/p/feedparser/']
+    method: GET
+    uri: https://www.ecb.europa.eu/rss/fxref-usd.html
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA+2Z3W/jNgzA3/tXEB6w3WGLP9IU12RJiru228vtpWmBvR1kmYmF2rJPkpsE2B8/
+        Ss5XnbRbWgzpiry0sUVSJEX+qKb9i1mewQMqLQo58CI/9AAlLxIhJwOvMuPWuXcxPOmrZNy7ufoN
+        gMSlhgF4qTFlLwjKSmV+oSaB0jog9cCrRXo83pCaTqc+j6fiXvgSTWA/BEImOPPLtAxGJXIxFpwZ
+        cuJb5EdLGwnftVPCA8wwR2nsjtFqx4QbVLl+QsWtrWQpnoZ701MnGXW73SBsB+12i2Raei4Nm7Wk
+        /mGpOdNit2Y7DKPgzz++jniKOWsJqQ2THElPi552L78WdYx7bg306M904gGdBE+ZlJiBfdljcVGZ
+        hjXksY+VKkpGv9yxVDrxU5NnHqkbYTIcXl9+gb/gbgRJkWVMwYe70dVHaME16cG4UCgmEnBm95og
+        KByjoqqgT8yg7ge1EYCTfibk/fDJzdMix8DubN3wUTov+oFTOuknqLkSpU3I8Dbd2gaYQoiZxgQo
+        Y8YJTCrrbcJENgdekKgydUJLVXBMKquBZooogVN9KJaRBXmvYSpMKiQwScYqo0WCzqKNt0QmYTTX
+        BnMoxnC50Pti9X6BaSp4CrJQOctoU8PuybMyY+QlM9D2ozMo/dyHD1GnF519BJtZI3L0+8FmfCd9
+        Qfb1opNG+H3xKRPuHBXqolIcB08fJFUT1fvyTAK7MJ5Ryur8rh5bE8XKtGWPfJHvi4SyOWiHUbcV
+        tlvh2Y8sL3+1GR5Q83Tapx4EB3Om89iZztkhnYkeO/MpOpgzUeu04cz5+SGdCRs1062dCda1HCzL
+        O+G9soozoVNUw1V7bTYVNcamjFVxbKa4qGc1/hucJELzjFGbqTVVmmbIqQUrF923JuZB2mwJXztH
+        ehlZH3govWHdhMTiK+J4BNd3N7A24nBy84iLS/r+E3v/s0B28bsZkwsjruYaVuE1R81j4q9nzQr9
+        yxJJIC5MCvEcaOpzowopOORM3aMBIWlY5asR8EBcV7qmfD0yKH8/Ef0x1lQBoNNCGaI4G1OpuPUn
+        hkjKNA0SO0WKvMzQYOI3jqHpI+O8UPbWBKZwljXLEYCzDGVCYZNB+/b2883v17eg3bjZmhHUGDb5
+        w3Xyb91Y6YXhz2FEP13vOBEnbDNesQkOUbqV1TNdE+KerQChjeC6fuZFRV04H961qTPi3vLRrdnb
+        ijCV9eNzHCt8sFcEJ7a94hSWB3ZTO0NvHlhWIYwVfq8oS/OB58a0Bwld7mh46oHXWVa7M+zka1U7
+        5S8rZbM7h0oK8y2vMurS0BtSITnpTZFayTA1QbN6R2XlBBuvnag9sNt5icNmK22uWV5sxRU08+hA
+        dwigbI/KZ4DSOdsNlM4bAMpWIPsDxYV3BMoLgNJ5j0CxJXQEyuuvu88A5VO0GyjRGwDKViD7A8WF
+        dwTKC4ASvUeg2BI6AuX1f7I+A5Tz8x1AsUYODZRdgewPFBfeESj7AsUm/z0CxZbQESiv/9rpGaC0
+        u7uBEr4BoGwFsj9QXHhHoLwAKOF7BEqbSuh/DxT3/TH9V3H4Nyn7W0uGHAAA
+    headers:
+      Connection: [close]
+      Content-Encoding: [gzip]
+      Content-Type: [application/rss+xml]
+      Date: ['Tue, 05 Feb 2019 19:19:20 GMT']
+      ETag: ['"myra-dc03d7e4"']
+      Expires: ['Tue, 05 Feb 2019 19:20:59 GMT']
+      Server: [myracloud]
+      Transfer-Encoding: [chunked]
+      X-CDN: ['1']
+      cache-control: [max-age=300]
+      vary: [accept-encoding]
+    status: {code: 200, message: OK}
+- request:
+    body: null
+    headers:
+      A-Im: [feed]
+      Accept: ['application/atom+xml,application/rdf+xml,application/rss+xml,application/x-netcdf,application/xml;q=0.9,text/xml;q=0.2,*/*;q=0.1']
+      Accept-Encoding: ['gzip, deflate']
+      Connection: [close]
+      Host: [www.ecb.europa.eu]
+      User-Agent: ['UniversalFeedParser/5.2.1 +https://code.google.com/p/feedparser/']
+    method: GET
+    uri: https://www.ecb.europa.eu/rss/fxref-pln.html
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA+2Z3W/bNhDA3/NXHDRga7FZH46T1p6toM2yvWRDkaTA3gqKOltEJEolqdge9sfv
+        SPkr/ugWd4OzwC+JJd4d7453v2Oc/sWkyOEBlRalHHiRH3qAkpepkKOBV5th6613EZ/0VTrs3fz0
+        MwCJSw0D8DJjql4QVLXK/VKNAqV1QOqB14j0eLIiNR6PfZ6Mxb3wJZrAfgiETHHiV1kV3FbIxVBw
+        ZsiJT5EfzW2kfNtOKQ8wxwKlsTtGix1TblAVeoeKW1vIUjxr7o1PnWTU7XaDsB202y2SaempNGzS
+        kvqbueZEi+2a7TCMgt9/vb7lGRasJaQ2THIkPS162r28LpsYn7g10KM/0akHdBI8Y1JiDvZljyVl
+        bdasIU98rFVZMfrljqXKpZ+ZIvdI3QiTY3x1+R7+hA9lLnQGf+SlmcKrD9e/vYYWXJEqDEuFYiQB
+        J3a7EYLCISoqDPrEDOp+0NgBOOnnQt7HO/fPygIDu7n1xMfGkX7glE76KWquRGVzEt9lG9sAUwgJ
+        05gCJc04gVGdMwUpE/kUeEmiyjQ5rVTJMa2tBpoxogROJaJYThbkvYaxMJmQwCQZq40WKTqLNt4K
+        mYTbqTZYQDmEy5nee6v3A4wzwTOQpSpYTpsadk+eVTkjL5mBth+dQeUXPryKOr3o7DXY5BpRoN8P
+        VuM76Quyr2fNdIufZ59y4Y5SoS5rxXGw+yypoKjk52cS2IXhhFLW5Hfx2BopVmUte+qzfF+klM1B
+        O4y6rbDdCs++ZUX1o83woOO3375pexAczJnOY2ei80M6Ez1y5s1p92DORK3TdWfOD+lM+MiZbnjW
+        OBMsazmYl3fKe1WdWLSgihfttdpU1BirMlbF4Zniop7V+E9wkgrNc0ZtppZUWTdDTs1wOeu+JTQP
+        0mZz/tpR0svJ+sBD6cVNEwIBmFAewdXHG1gacTi5ecTFOX3/jr3/WSDb+L0WUxNGUk81zMPbNm0e
+        Q385bhb0n1dJCklpMkimQLOfG1VKwaFg6h4NCEnzqlhMgQdCu9IN6JupQSn8jgYAJpqKAHRWKkMg
+        Z0OqFre+Y45kTNMssYOkLKocDab+2kms+8g4L5W9O4EpnWXNCgTgLEeZ0tgig/bt3bubX67uQLuJ
+        szEmqDds/uNl/u/cZOmF4fdhRD9d+zgRJ2yTXrMRxijdyuKZLgtJzxaB0EZw3TzzsqZGnMYf6RRX
+        Ht2avbMIU1s/3iWJwgd7UXBimytOYX5gN40z9OaB5TXCUOHnmrI0HXhuUnuQ0hWP5qceeJ15wTvD
+        Tr5RtYP+slY2u1OopTCfijqnRg29mGrJSa+KNEqGqRGaxTsqKye49tqJ2gO7m1YYr3fT6ppFxkZc
+        wXoeHesOwZTNafkFpkTn25nSeQZM2Qjk6Uyx4R2ZsidTOi+RKbaKjkz5+kvvbqbQlXg7U6JnwJSN
+        QJ7MFBfekSl7MiV6gUxxVXRkytf/7folpmy7p1gjh2bKtkD2YMrxnrLn3z42/y+SKcd7yr/yFdRu
+        ptAXVNuZEj4DpmwE8mSmuPCO95Q9mRK+QKZ0bRX97+8p7utk+j9j/BcKsC9pmBwAAA==
+    headers:
+      Connection: [close]
+      Content-Encoding: [gzip]
+      Content-Type: [application/rss+xml]
+      Date: ['Tue, 05 Feb 2019 19:19:20 GMT']
+      ETag: ['"myra-abb381dc"']
+      Expires: ['Tue, 05 Feb 2019 19:19:26 GMT']
+      Server: [myracloud]
+      Transfer-Encoding: [chunked]
+      X-CDN: ['1']
+      cache-control: [max-age=60]
+      vary: [accept-encoding]
+    status: {code: 200, message: OK}
+- request:
+    body: null
+    headers:
+      A-Im: [feed]
+      Accept: ['application/atom+xml,application/rdf+xml,application/rss+xml,application/x-netcdf,application/xml;q=0.9,text/xml;q=0.2,*/*;q=0.1']
+      Accept-Encoding: ['gzip, deflate']
+      Connection: [close]
+      Host: [www.ecb.europa.eu]
+      User-Agent: ['UniversalFeedParser/5.2.1 +https://code.google.com/p/feedparser/']
+    method: GET
+    uri: https://www.ecb.europa.eu/rss/fxref-gbp.html
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA+2ZW0/jRhSA3/kVR67U7qqNLwmUkCZGC0v3ZSutgJX6thqPT+IR9tg7MyaJ1B/f
+        M+PcyIUWRBWK8gKx55yZc/3OEPrnkyKHe1RalHLgRX7oAUpepkKOBl5thq2udx4f9VU67F1//B2A
+        xKWGAXiZMVUvCKpa5X6pRoHSOiD1wGtEejxZkRqPxz5PxuJO+BJNYD8EQqY48ausCm4q5GIoODNk
+        xLfIj+Z7pHzbSSkPMMcCpbEnRosTU25QFXqHiltbyJI/a+aNO04yOjs7C8J20G63SKalp9KwSUvq
+        H+aaEy22a7bDMAr+/OPzDc+wYC0htWGSI+lp0dPu5eey8fGJRwM9+hOdekCZ4BmTEnOwL3ssKWuz
+        thvyxMdalRWjXy4to6TyM1PkHqkbYXKMry4v4C/4UtYyBU2RySnd8O7TxZf30IIrUoZhqVCMJODE
+        HjhCUDhERaVBn5hB3Q+anQCO+qR9F++0ICsLDOzx1hYfpTOlHzilo36KmitR2ajEt9nGMcAUQsI0
+        pkBhM05gVOdMQcpEPgVekqgyTVQrVXJMa6uBZowogVORKJbTDvJOw1iYTEhg5DSFTYsU3Y7W3wqZ
+        hJspxaKAcgiXM70Lq/cLjDPBM5ClKlhOhxp2R5ZVOSMrmYG2H51A5Rc+vIuOe9HJe7DhNaJAvx+s
+        +nfUF7S/nrXTDX6ffcqFS6ZCXdaK42B3NqmkqOjnOQnswnBCIWviu3hsjRSrspbN+yze5ylFc9AO
+        o7NW2G6FJz+yovrNRngQ+t3TbtjxINibNccPrfn1tLtPa6K12HT3Z03U6qxZc3K6V2vCh9Z0jqPG
+        mmBZ0MG8xlPeq+okFzpDFS96bLWzqDtWZayKozQ5Ro2r8d8wJRWa54x6TS3Rsr4NGTWj5qwFl+zc
+        T6/NOWxHSi+n7QceSi+etSIQh4npEVx9vYblNo4q1w/wOIfwPyH4v3NlG8fXvGr8SOqphrmDOwbP
+        Q/4vJ89iEMxrJYWkNBkkU6CLADeqlIJDwdQdGhCSRlexGAj3RHmlG+Y3A4TC+BPNAkw0lQLorFSG
+        mM6GZI1b3zFSMqZprNiZUhZVjgZTfy0b6zYyzktlL1JgSrezZgUCcJajTGmC0Yb27e2H609Xt6Dd
+        8NmYGNQhNgfxMge3bsj0wvDnMKKfromciBO2ca/ZCGOUbmXxTDeHpGcLQWgjuG6eOSXCqGn8tU0t
+        kvTmj27NXmCEqa0dH5JE4b29NTixzRWnME/YdWMMvblneY0wVPi9pihNB54b2h6kdN+jUaoH3smi
+        6t3OTqHRtUP/slY2vFOopTDfijqnfg29mOrJSa+KNEqGqRGaxTuqKye49tqJ2ozdTiuM11tqdc2S
+        Y8OxYD2QDnn7QMuWwfkIWmh5O1qOXwFaNl15Olqsgwe0PB8tx28RLa6SDmh5gVvwY7eW7g60RK8A
+        LZuuPB0t1sEDWp6PlugtosVV0gEtL/An7SNoob94t6DFbrNvtGx15elosQ4e0PJMtNgcvEW0uEo6
+        oOUFvp96BC309dV2tISvAC2brjwdLdbBA1qej5bwLaKlYyvpf48W940z/Ucy/hvzmT/bwhwAAA==
+    headers:
+      Connection: [close]
+      Content-Encoding: [gzip]
+      Content-Type: [application/rss+xml]
+      Date: ['Tue, 05 Feb 2019 19:19:20 GMT']
+      ETag: ['"myra-a8d3bea9"']
+      Expires: ['Tue, 05 Feb 2019 19:21:00 GMT']
+      Server: [myracloud]
+      Transfer-Encoding: [chunked]
+      X-CDN: ['1']
+      cache-control: [max-age=300]
+      vary: [accept-encoding]
+    status: {code: 200, message: OK}
+version: 1
